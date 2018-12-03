@@ -1,7 +1,0 @@
-// PI_Phoenix_Capsule - default KIS inventory (3600 volume)
-// PI-CRS-1 Phoenix Capsule
-//	TechRequired = largeUnmanned
-//	entryCost = 30600
-//	cost = 3800
-//	category = Pods
-//	mass = 2.9

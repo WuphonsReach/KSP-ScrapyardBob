@@ -1,4 +1,0 @@
-@PART[dmSeismicPod]
-{
-    @crashTolerance = 150 // 150 default
-}
