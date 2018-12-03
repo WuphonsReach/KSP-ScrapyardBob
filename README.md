@@ -20,11 +20,8 @@ All parts are copyright by their original owners as per the licenses.
 
 - Most command modules and probe cores automatically get a Mechjeb AR202 piece installed.
 
-#### Squad
+## Squad
+
+### Probe Cores (General)
 
 - 
-
-### ModularRocketSystems (MRS) by NecroBones
-
-MRS Guidance Nose-Cone
-- Added 4000 EC
