@@ -1,4 +1,4 @@
-# ScrapyardBob's Parts for KSP 1.5.1
+# ScrapyardBob's Modified Parts for KSP 1.5.1
 
 This adds new parts for Kerbal Space Program (KSP) via ModuleManager (MM) configuration files.  
 
